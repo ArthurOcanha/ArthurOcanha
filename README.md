@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 ### Olá, sou o Arthur 👋
 
 **Estudante de Tecnologia em IA na FIAP** | São Paulo, SP
